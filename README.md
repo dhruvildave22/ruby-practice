@@ -8,3 +8,7 @@ operations
 (V)Mod
 
 # 2.Area code
+
+# 3.Factorial of number
+
+# 4.pattern
