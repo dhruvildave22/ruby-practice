@@ -1,5 +1,5 @@
 # ruby-practice
-#1.simple calculator
+# 1.simple calculator
 operations
 (I)Add
 (II)subtract
@@ -7,4 +7,4 @@ operations
 (IV)divide
 (V)Mod
 
-#2.Area code
+# 2.Area code
